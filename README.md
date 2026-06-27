@@ -20,3 +20,4 @@ Server running script - npx nodemon server.js
 
 step 3
 Added Register and Login functionalities and tested it in Postman
+Added Logout ,Blacklisting and get me functionalities
