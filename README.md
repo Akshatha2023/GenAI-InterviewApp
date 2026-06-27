@@ -8,3 +8,15 @@ step 1
 
 step 2
 1.Initialising the express server and Connecting to DB
+
+step 3
+Creation of User Authentication service -Register ,Login and Logout
+npm i bcryptjs jsonwebtoken cookie-parser
+bcryptjs- For hashing
+jsonwebtoken- jwt token creation usage
+cookie-parser- setting token in cookies and reading it
+
+Server running script - npx nodemon server.js
+
+step 3
+Added Register and Login functionalities and tested it in Postman
